@@ -1,12 +1,7 @@
-# 🧭 Responsive Dashboard
-
----
-
+## 🧭 Responsive Dashboard
 
 
 | Screenshot 1 | Screenshot 2 | Screenshot 3 |
 |:-------------:|:-------------:|:-------------:|
-| ![Desktop 1](./desktop1.png) | ![Desktop 2](./desktop2.png) | ![Desktop 3](./desktop3.png) |
-
-
+| <img src="https://raw.githubusercontent.com/rayulu7/Dashboard-Nxt/refs/heads/Rayulu/public/desktop1.png" width="250"> | <img src="https://raw.githubusercontent.com/rayulu7/Dashboard-Nxt/refs/heads/Rayulu/public/desktop2.png" width="250"> | <img src="https://raw.githubusercontent.com/rayulu7/Dashboard-Nxt/refs/heads/Rayulu/public/desktop3.png" width="250"> |
 
